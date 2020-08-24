@@ -1,8 +1,8 @@
 {
-  "name": "@zeit-ui/prettier-config",
+  "name": "@geist-ui/prettier-config",
   "version": "1.0.0",
   "main": "prettier.json",
-  "repository": "git@github.com:zeit-ui/prettier-config.git",
+  "repository": "git@github.com:geist-ui/prettier-config.git",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

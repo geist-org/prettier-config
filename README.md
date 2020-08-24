@@ -1,20 +1,20 @@
-## Prettier config for ZEIT UI
+## Prettier config for Geist UI
 
-This is `prettier` config for all `zeit-ui` projects. If you like this style, you can also quote it in your project.
+This is `prettier` config for all `geist-ui` projects. If you like this style, you can also quote it in your project.
 
 ### Usage
 
 1. Install:
 
 ```bash
-yarn add @zeit-ui/prettier-config -D
+yarn add @geist-ui/prettier-config -D
 ```
 
 2. Configure (`package.json`):
 
 ```json
 {
-  "prettier": "@zeit-ui/prettier-config"
+  "prettier": "@geist-ui/prettier-config"
 }
 ```
 
