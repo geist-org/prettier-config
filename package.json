@@ -1,6 +1,6 @@
 {
   "name": "@geist-ui/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "prettier.json",
   "repository": "git@github.com:geist-ui/prettier-config.git",
   "license": "MIT",
